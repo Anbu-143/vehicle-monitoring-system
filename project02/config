@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\anbal\\OneDrive\\Desktop\\Mini\\New folder\\Multi-type_vehicles_flow_statistics-master\\Multi-type_vehicles_flow_statistics-master\\config\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("coco.data","coco.data",0,93,"93 B",1739120346,"2/9/25, 10:29:06 PM");</script>
+<script>addRow("coco.names","coco.names",0,625,"625 B",1739120346,"2/9/25, 10:29:06 PM");</script>
+<script>addRow("yolov3-tiny.cfg","yolov3-tiny.cfg",0,2025,"2.0 kB",1739120346,"2/9/25, 10:29:06 PM");</script>
+<script>addRow("yolov3.cfg","yolov3.cfg",0,8338,"8.1 kB",1739120346,"2/9/25, 10:29:06 PM");</script>
